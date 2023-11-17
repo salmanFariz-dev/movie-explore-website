@@ -1,5 +1,5 @@
 import { React, useEffect, useState } from "react";
-import RatingStar from "../RatingStar";
+import RatingStar from "./RatingStar";
 import { useKey } from "../hooks/useKey";
 import { KEY } from "./App";
 import { Loader } from "./Loader";
